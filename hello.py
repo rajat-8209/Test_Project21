@@ -1,2 +1,2 @@
 print('Python')
-a = 5
+a = 7
